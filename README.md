@@ -1,5 +1,6 @@
-# Rand Passwd
+# Generate Random Password
 
+[![Go Report Card](https://goreportcard.com/report/github.com/rangow/randpasswd)](https://goreportcard.com/report/github.com/rangow/randpasswd)
 
 ## Range
 

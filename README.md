@@ -1,6 +1,7 @@
 # Generate Random Password
 
-[![Go Report Card](https://goreportcard.com/report/github.com/rangow/randpasswd)](https://goreportcard.com/report/github.com/rangow/randpasswd) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/gojp/goreportcard/blob/master/LICENSE)
+[![Go Report Card](https://goreportcard.com/badge/github.com/rangow/randpasswd)](https://goreportcard.com/badge/github.com/rangow/randpasswd)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/gojp/goreportcard/blob/master/LICENSE)
 
 ## Range
 
